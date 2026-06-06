@@ -1,0 +1,23 @@
+{
+  "_comment": "DWD-Sofortmelder-Arten (immediate_reporters) für die Blüh-Auswertung. file = DWD-Dateiname (ohne Pfad). bloom_days = geschätzte Blühdauer ab beobachtetem Blühbeginn (Phase 5) für das 'aktuell in Blüte'-Fenster. wiki = de.wikipedia-Artikeltitel für Bild/Text.",
+  "wild": [
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Schwarzer_Holunder_akt.txt", "name_de": "Schwarzer Holunder", "name_lat": "Sambucus nigra", "wiki": "Schwarzer Holunder", "bloom_days": 30 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Robinie_akt.txt", "name_de": "Robinie", "name_lat": "Robinia pseudoacacia", "wiki": "Robinie", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Sommer-Linde_akt.txt", "name_de": "Sommer-Linde", "name_lat": "Tilia platyphyllos", "wiki": "Sommer-Linde", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Loewenzahn_akt.txt", "name_de": "Löwenzahn", "name_lat": "Taraxacum officinale", "wiki": "Wiesen-Löwenzahn", "bloom_days": 45 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Forsythie_akt.txt", "name_de": "Forsythie", "name_lat": "Forsythia", "wiki": "Forsythien", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Huflattich_akt.txt", "name_de": "Huflattich", "name_lat": "Tussilago farfara", "wiki": "Huflattich", "bloom_days": 35 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Schneegloeckchen_akt.txt", "name_de": "Schneeglöckchen", "name_lat": "Galanthus nivalis", "wiki": "Schneeglöckchen", "bloom_days": 30 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Hasel_akt.txt", "name_de": "Hasel", "name_lat": "Corylus avellana", "wiki": "Gemeine Hasel", "bloom_days": 30 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Sal-Weide_akt.txt", "name_de": "Sal-Weide", "name_lat": "Salix caprea", "wiki": "Sal-Weide", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Beifuss_akt.txt", "name_de": "Beifuß", "name_lat": "Artemisia vulgaris", "wiki": "Gewöhnlicher Beifuß", "bloom_days": 45 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Rosskastanie_akt.txt", "name_de": "Rosskastanie", "name_lat": "Aesculus hippocastanum", "wiki": "Gewöhnliche Rosskastanie", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Stiel-Eiche_akt.txt", "name_de": "Stiel-Eiche", "name_lat": "Quercus robur", "wiki": "Stieleiche", "bloom_days": 20 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Rotbuche_akt.txt", "name_de": "Rotbuche", "name_lat": "Fagus sylvatica", "wiki": "Rotbuche", "bloom_days": 20 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Esche_akt.txt", "name_de": "Esche", "name_lat": "Fraxinus excelsior", "wiki": "Gewöhnliche Esche", "bloom_days": 20 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Birke_alleArten_akt.txt", "name_de": "Birke", "name_lat": "Betula", "wiki": "Birken", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Haenge-Birke_akt.txt", "name_de": "Hänge-Birke", "name_lat": "Betula pendula", "wiki": "Hänge-Birke", "bloom_days": 25 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Erle_alleArten_akt.txt", "name_de": "Erle", "name_lat": "Alnus", "wiki": "Erlen", "bloom_days": 30 },
+    { "file": "PH_Sofortmelder_Wildwachsende_Pflanze_Wiesen-Fuchsschwanz_akt.txt", "name_de": "Wiesen-Fuchsschwanz", "name_lat": "Alopecurus pratensis", "wiki": "Wiesen-Fuchsschwanz", "bloom_days": 30 }
+  ]
+}

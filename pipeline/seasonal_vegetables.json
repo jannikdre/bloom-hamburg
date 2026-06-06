@@ -1,0 +1,30 @@
+{
+  "_comment": "Kuratierter Gemüse-/Obst-Saisonkalender für die Region Hamburg/Norddeutschland. months = Erntemonate (1-12) im Freiland/aus Lager. Datenbasis: Verbraucherzentrale / BZfE / Saisonkalender. Manuell gepflegt, da es keine Live-Quelle für regionale Gemüseernte gibt. wiki = de.wikipedia-Artikeltitel.",
+  "items": [
+    { "name_de": "Spargel", "wiki": "Gemüsespargel", "months": [4, 5, 6], "note": "Freiland – Saison endet traditionell am 24. Juni (Johanni)." },
+    { "name_de": "Rhabarber", "wiki": "Rhabarber", "months": [4, 5, 6], "note": "Freiland – Ernte ebenfalls bis Johanni (24. Juni)." },
+    { "name_de": "Erdbeeren", "wiki": "Gartenerdbeere", "months": [5, 6, 7], "note": "Freiland – regionale Pflücke rund um Hamburg." },
+    { "name_de": "Radieschen", "wiki": "Radieschen", "months": [4, 5, 6, 7, 8, 9], "note": "Freiland." },
+    { "name_de": "Kohlrabi", "wiki": "Kohlrabi", "months": [5, 6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Kopfsalat", "wiki": "Kopfsalat", "months": [5, 6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Spinat", "wiki": "Spinat", "months": [4, 5, 6, 9, 10], "note": "Freiland (Frühjahr & Herbst)." },
+    { "name_de": "Mangold", "wiki": "Mangold", "months": [6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Erbsen", "wiki": "Erbse", "months": [6, 7], "note": "Freiland." },
+    { "name_de": "Möhren", "wiki": "Karotte", "months": [6, 7, 8, 9, 10, 11], "note": "Freiland; ab Herbst auch aus Lager." },
+    { "name_de": "Blumenkohl", "wiki": "Blumenkohl", "months": [6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Brokkoli", "wiki": "Brokkoli", "months": [6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Zucchini", "wiki": "Zucchini", "months": [6, 7, 8, 9], "note": "Freiland." },
+    { "name_de": "Gurke", "wiki": "Gurke", "months": [6, 7, 8, 9], "note": "Freiland/Gewächshaus." },
+    { "name_de": "Grüne Bohnen", "wiki": "Gartenbohne", "months": [7, 8, 9], "note": "Freiland." },
+    { "name_de": "Rote Bete", "wiki": "Rote Bete", "months": [6, 7, 8, 9, 10], "note": "Freiland; danach Lager." },
+    { "name_de": "Fenchel", "wiki": "Gemüsefenchel", "months": [6, 7, 8, 9, 10], "note": "Freiland." },
+    { "name_de": "Porree", "wiki": "Porree", "months": [6, 7, 8, 9, 10, 11, 12], "note": "Freiland." },
+    { "name_de": "Zwiebeln", "wiki": "Küchenzwiebel", "months": [7, 8, 9, 10], "note": "Freiland; danach Lager." },
+    { "name_de": "Kartoffeln", "wiki": "Kartoffel", "months": [6, 7, 8, 9, 10], "note": "Frühkartoffeln ab Juni; danach Lager." },
+    { "name_de": "Weißkohl", "wiki": "Weißkohl", "months": [7, 8, 9, 10, 11], "note": "Freiland; gut lagerfähig." },
+    { "name_de": "Grünkohl", "wiki": "Grünkohl", "months": [11, 12, 1, 2], "note": "Freiland – Hamburger Klassiker nach dem ersten Frost." },
+    { "name_de": "Rosenkohl", "wiki": "Rosenkohl", "months": [10, 11, 12, 1], "note": "Freiland." },
+    { "name_de": "Kürbis", "wiki": "Kürbisse", "months": [9, 10, 11], "note": "Freiland; danach Lager." },
+    { "name_de": "Feldsalat", "wiki": "Gewöhnlicher Feldsalat", "months": [9, 10, 11, 12, 1, 2, 3], "note": "Freiland (Herbst bis Frühjahr)." }
+  ]
+}

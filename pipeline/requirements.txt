@@ -1,0 +1,4 @@
+# Die Pipeline nutzt bewusst nur die Python-Standardbibliothek (urllib, csv,
+# json, datetime), damit sie ohne phenodata/pandas auch unter älterem Python
+# (z. B. 3.8) und in CI ohne zusätzliche Installation läuft.
+# Es sind daher keine Laufzeit-Abhängigkeiten erforderlich.

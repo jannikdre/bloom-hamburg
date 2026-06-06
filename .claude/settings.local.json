@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p pipeline frontend/src/components frontend/public/data frontend/public/icons .github/workflows && echo \"Struktur angelegt:\" && ls -la)",
+      "Bash(python3 -)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(npm uninstall *)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:5180/)",
+      "Bash(curl -s -o /dev/null -w \"current.json HTTP %{http_code}\\\\n\" http://localhost:5180/data/current.json)",
+      "Read(//private/tmp/**)",
+      "Bash(python3 build_dataset.py)"
+    ]
+  }
+}

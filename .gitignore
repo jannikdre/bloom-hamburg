@@ -1,0 +1,16 @@
+# Node
+node_modules/
+frontend/dist/
+*.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pipeline-Download-Cache (wird zur Laufzeit neu aufgebaut)
+pipeline/.cache/
+
+# OS / Editor
+.DS_Store
+*.log

@@ -1,0 +1,280 @@
+{
+  "generated_at": "2026-06-06T13:07:35+02:00",
+  "week": 23,
+  "region": "Hamburg",
+  "blooming": [
+    {
+      "name_de": "Schwarzer Holunder",
+      "name_lat": "Sambucus nigra",
+      "source": "DWD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sambucus_nigra_004.jpg/960px-Sambucus_nigra_004.jpg",
+      "image_credit": "Willow / Wikimedia Commons / CC BY 2.5",
+      "text": "Der Schwarze Holunder (Sambucus nigra) ist ein Strauch oder kleiner Baum aus der Gattung Holunder (Sambucus), der im größten Teil Europas natürlich vorkommt. Für den Schwarzen Holunder gibt es im deutschen u. a. (Blühbeginn in der Region beobachtet ab 25.05.2026.)"
+    },
+    {
+      "name_de": "Robinie",
+      "name_lat": "Robinia pseudoacacia",
+      "source": "DWD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Robina9146.JPG",
+      "image_credit": "Pollinator at English Wikipedia / Wikimedia Commons / CC BY-SA 3.0",
+      "text": "Die Gewöhnliche Robinie (Robinia pseudoacacia), auch verkürzt Robinie, Gemeine Robinie, Weiße Robinie, Falsche Akazie, Scheinakazie, Gemeiner Schotendorn oder Silberregen genannt, ist ein sommergrüner Laubbaum. Sie stammt aus Nordamerika und wird seit fast 400 Jahren überall in Europa in Parks und Gärten gepflanzt. (Blühbeginn in der Region beobachtet ab 25.05.2026.)"
+    },
+    {
+      "name_de": "Wiesen-Fuchsschwanz",
+      "name_lat": "Alopecurus pratensis",
+      "source": "DWD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alopecurus_pratensis_Grote_vossenstaart_%281%29.jpg/960px-Alopecurus_pratensis_Grote_vossenstaart_%281%29.jpg",
+      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0",
+      "text": "Der Wiesen-Fuchsschwanz (Alopecurus pratensis) ist eine Pflanzenart aus der Gattung der Fuchsschwanzgräser (Alopecurus) in der Familie der Süßgräser. Er ist ein ausdauerndes Obergras mit hohem Futterwert. (Blühbeginn in der Region beobachtet ab 07.05.2026.)"
+    }
+  ],
+  "harvesting": [
+    {
+      "name_de": "Blumenkohl",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bloemkool.jpg/960px-Bloemkool.jpg",
+      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Brokkoli",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Broccoli2.jpg",
+      "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Erbsen",
+      "months": [
+        6,
+        7
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Illustration_Pisum_sativum0.jpg/960px-Illustration_Pisum_sativum0.jpg",
+      "image_credit": "Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Erdbeeren",
+      "months": [
+        5,
+        6,
+        7
+      ],
+      "note": "Freiland – regionale Pflücke rund um Hamburg.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2017-11-19_Strawberries_on_the_farm.jpg/960px-2017-11-19_Strawberries_on_the_farm.jpg",
+      "image_credit": "Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0"
+    },
+    {
+      "name_de": "Fenchel",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg",
+      "image_credit": "Unknown author / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Gurke",
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": "Freiland/Gewächshaus.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cucumis_sativus20090812_496.jpg/960px-Cucumis_sativus20090812_496.jpg",
+      "image_credit": "Bff / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Kartoffeln",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Frühkartoffeln ab Juni; danach Lager.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/234_Solanum_tuberosum_L.jpg",
+      "image_credit": "Amédée Masclef / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Kohlrabi",
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg/960px-Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg",
+      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Kopfsalat",
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kropsla_herfst.jpg",
+      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Mangold",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Swiss_Chard.jpg",
+      "image_credit": "Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Möhren",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "note": "Freiland; ab Herbst auch aus Lager.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Carrots.JPG/960px-Carrots.JPG",
+      "image_credit": "Kander / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Porree",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lauchbluete-korrekt.jpg/960px-Lauchbluete-korrekt.jpg",
+      "image_credit": "Prozentzwanzig / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Radieschen",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg/960px-Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg",
+      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Rhabarber",
+      "months": [
+        4,
+        5,
+        6
+      ],
+      "note": "Freiland – Ernte ebenfalls bis Johanni (24. Juni).",
+      "source": "Saisonkalender",
+      "image": "https://placehold.co/600x400/8FBF6F/ffffff?text=Rhabarber",
+      "image_credit": "Platzhalterbild"
+    },
+    {
+      "name_de": "Rote Bete",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland; danach Lager.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg",
+      "image_credit": "Evan-Amos / Wikimedia Commons / CC0"
+    },
+    {
+      "name_de": "Spargel",
+      "months": [
+        4,
+        5,
+        6
+      ],
+      "note": "Freiland – Saison endet traditionell am 24. Juni (Johanni).",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Illustration_Asparagus_officinalis0b.jpg/960px-Illustration_Asparagus_officinalis0b.jpg",
+      "image_credit": "CSvBibra / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Spinat",
+      "months": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "note": "Freiland (Frühjahr & Herbst).",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Illustration_Spinacia_oleracea1.jpg/960px-Illustration_Spinacia_oleracea1.jpg",
+      "image_credit": "Otto Wilhelm Thom&amp;eacute / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Zucchini",
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG/960px-0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG",
+      "image_credit": "Silar / Wikimedia Commons / CC BY-SA 4.0"
+    }
+  ]
+}
