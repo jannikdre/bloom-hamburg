@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-06-08T16:58:55+00:00",
-  "week": 24,
+  "generated_at": "2026-06-15T19:10:20+00:00",
+  "week": 25,
   "region": "Hamburg",
   "blooming": [
+    {
+      "name_de": "Sommer-Linde",
+      "name_lat": "Tilia platyphyllos",
+      "source": "DWD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tilia_platyphyllos_Kellerwald_001.JPG/960px-Tilia_platyphyllos_Kellerwald_001.JPG",
+      "image_credit": "Antiope05411 / Wikimedia Commons / CC BY-SA 3.0",
+      "text": "Die Sommerlinde (Tilia platyphyllos), Sommer-Linde, auch Großblättrige Linde genannt, ist eine Pflanzenart aus der Gattung der Linden (Tilia) innerhalb der Familie der Malvengewächse (Malvaceae). (Blühbeginn in der Region beobachtet ab 11.06.2026.)"
+    },
     {
       "name_de": "Schwarzer Holunder",
       "name_lat": "Sambucus nigra",
