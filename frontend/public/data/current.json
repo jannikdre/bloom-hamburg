@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T16:46:16+00:00",
-  "week": 27,
+  "generated_at": "2026-07-06T16:33:02+00:00",
+  "week": 28,
   "region": "Hamburg",
   "blooming": [
     {
@@ -77,6 +77,18 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg",
       "image_credit": "Unknown author / Wikimedia Commons / Public domain"
+    },
+    {
+      "name_de": "Grüne Bohnen",
+      "months": [
+        7,
+        8,
+        9
+      ],
+      "note": "Freiland.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Phaseolus_vulgaris.jpg/960px-Phaseolus_vulgaris.jpg",
+      "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
     },
     {
       "name_de": "Gurke",
@@ -196,18 +208,6 @@
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
-      "name_de": "Rhabarber",
-      "months": [
-        4,
-        5,
-        6
-      ],
-      "note": "Freiland – Ernte ebenfalls bis Johanni (24. Juni).",
-      "source": "Saisonkalender",
-      "image": "https://placehold.co/600x400/8FBF6F/ffffff?text=Rhabarber",
-      "image_credit": "Platzhalterbild"
-    },
-    {
       "name_de": "Rote Bete",
       "months": [
         6,
@@ -222,30 +222,18 @@
       "image_credit": "Evan-Amos / Wikimedia Commons / CC0"
     },
     {
-      "name_de": "Spargel",
+      "name_de": "Weißkohl",
       "months": [
-        4,
-        5,
-        6
-      ],
-      "note": "Freiland – Saison endet traditionell am 24. Juni (Johanni).",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Illustration_Asparagus_officinalis0b.jpg/960px-Illustration_Asparagus_officinalis0b.jpg",
-      "image_credit": "CSvBibra / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Spinat",
-      "months": [
-        4,
-        5,
-        6,
+        7,
+        8,
         9,
-        10
+        10,
+        11
       ],
-      "note": "Freiland (Frühjahr & Herbst).",
+      "note": "Freiland; gut lagerfähig.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Illustration_Spinacia_oleracea1.jpg/960px-Illustration_Spinacia_oleracea1.jpg",
-      "image_credit": "Otto Wilhelm Thom&amp;eacute / Wikimedia Commons / Public domain"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cabbage.jpg",
+      "image_credit": "Bill Tarpenning / Wikimedia Commons / Public domain"
     },
     {
       "name_de": "Zucchini",
@@ -259,6 +247,19 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG/960px-0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG",
       "image_credit": "Silar / Wikimedia Commons / CC BY-SA 4.0"
+    },
+    {
+      "name_de": "Zwiebeln",
+      "months": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Freiland; danach Lager.",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg/960px-Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg",
+      "image_credit": "Wikimedia Commons / Public domain"
     }
   ]
 }
