@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-06T16:33:02+00:00",
-  "week": 28,
+  "generated_at": "2026-07-13T07:37:00+00:00",
+  "week": 29,
   "region": "Hamburg",
   "blooming": [
     {
-      "name_de": "Sommer-Linde",
-      "name_lat": "Tilia platyphyllos",
+      "name_de": "Beifuß",
+      "name_lat": "Artemisia vulgaris",
       "source": "DWD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tilia_platyphyllos_Kellerwald_001.JPG/960px-Tilia_platyphyllos_Kellerwald_001.JPG",
-      "image_credit": "Antiope05411 / Wikimedia Commons / CC BY-SA 3.0",
-      "text": "Die Sommerlinde (Tilia platyphyllos), Sommer-Linde, auch Großblättrige Linde genannt, ist eine Pflanzenart aus der Gattung der Linden (Tilia) innerhalb der Familie der Malvengewächse (Malvaceae). (Blühbeginn in der Region beobachtet ab 16.06.2026.)"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ArtemisiaVulgaris.jpg/960px-ArtemisiaVulgaris.jpg",
+      "image_credit": "Wikimedia Commons / CC BY-SA 3.0",
+      "text": "Der Gemeine Beifuß (Artemisia vulgaris), auch Gewürzbeifuß oder Gewöhnlicher Beifuß, kurz auch Beifuß, genannt, ist eine Pflanzenart aus der Gattung Artemisia in der Familie der Korbblütler (Asteraceae). (Blühbeginn in der Region beobachtet ab 08.07.2026.)"
     }
   ],
   "harvesting": [
