@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T07:51:01+00:00",
-  "week": 31,
+  "generated_at": "2026-08-03T07:45:46+00:00",
+  "week": 32,
   "region": "Hamburg",
   "blooming": [
     {
@@ -40,29 +40,6 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Broccoli2.jpg",
       "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
-    },
-    {
-      "name_de": "Erbsen",
-      "months": [
-        6,
-        7
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Illustration_Pisum_sativum0.jpg/960px-Illustration_Pisum_sativum0.jpg",
-      "image_credit": "Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Erdbeeren",
-      "months": [
-        5,
-        6,
-        7
-      ],
-      "note": "Freiland – regionale Pflücke rund um Hamburg.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2017-11-19_Strawberries_on_the_farm.jpg/960px-2017-11-19_Strawberries_on_the_farm.jpg",
-      "image_credit": "Maksym Kozlenko / Wikimedia Commons / CC BY-SA 4.0"
     },
     {
       "name_de": "Fenchel",
