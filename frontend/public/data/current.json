@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T05:01:15+00:00",
-  "week": 35,
+  "generated_at": "2026-08-31T10:51:42+00:00",
+  "week": 36,
   "region": "Hamburg",
   "blooming": [
     {
       "name_de": "Beifuß",
       "name_lat": "Artemisia vulgaris",
       "source": "DWD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ArtemisiaVulgaris.jpg/960px-ArtemisiaVulgaris.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/ArtemisiaVulgaris.jpg/960px-ArtemisiaVulgaris.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Wikimedia Commons / CC BY-SA 3.0",
       "text": "Der Gemeine Beifuß (Artemisia vulgaris), auch Gewürzbeifuß oder Gewöhnlicher Beifuß, kurz auch Beifuß, genannt, ist eine Pflanzenart aus der Gattung Artemisia in der Familie der Korbblütler (Asteraceae). (Blühbeginn in der Region beobachtet ab 24.07.2026.)"
     }
@@ -24,7 +24,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bloemkool.jpg/960px-Bloemkool.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bloemkool.jpg/960px-Bloemkool.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -52,7 +52,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Unknown author / Wikimedia Commons / Public domain"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Phaseolus_vulgaris.jpg/960px-Phaseolus_vulgaris.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Phaseolus_vulgaris.jpg/960px-Phaseolus_vulgaris.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -77,7 +77,7 @@
       ],
       "note": "Freiland/Gewächshaus.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cucumis_sativus20090812_496.jpg/960px-Cucumis_sativus20090812_496.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cucumis_sativus20090812_496.jpg/960px-Cucumis_sativus20090812_496.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Bff / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg/960px-Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg/960px-Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "note": "Freiland; ab Herbst auch aus Lager.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Carrots.JPG/960px-Carrots.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Carrots.JPG/960px-Carrots.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Kander / Wikimedia Commons / Public domain"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lauchbluete-korrekt.jpg/960px-Lauchbluete-korrekt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lauchbluete-korrekt.jpg/960px-Lauchbluete-korrekt.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Prozentzwanzig / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg/960px-Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg/960px-Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "note": "Freiland; danach Lager.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Evan-Amos / Wikimedia Commons / CC0"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG/960px-0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG/960px-0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Silar / Wikimedia Commons / CC BY-SA 4.0"
     },
     {
@@ -235,7 +235,7 @@
       ],
       "note": "Freiland; danach Lager.",
       "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg/960px-Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg/960px-Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Wikimedia Commons / Public domain"
     }
   ]
