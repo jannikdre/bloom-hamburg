@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T10:51:42+00:00",
-  "week": 36,
+  "generated_at": "2026-09-07T09:20:55+00:00",
+  "week": 37,
   "region": "Hamburg",
   "blooming": [
     {
@@ -40,6 +40,22 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Broccoli2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
+    },
+    {
+      "name_de": "Feldsalat",
+      "months": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "note": "Freiland (Herbst bis Frühjahr).",
+      "source": "Saisonkalender",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Valerianella_locusta.jpeg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_credit": "Kristian Peters -- Fabelfroh 12:15, 6 September 2006 (UTC) / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
       "name_de": "Fenchel",
@@ -125,6 +141,18 @@
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
+      "name_de": "Kürbis",
+      "months": [
+        9,
+        10,
+        11
+      ],
+      "note": "Freiland; danach Lager.",
+      "source": "Saisonkalender",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg/960px-Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_credit": "Albrecht, Ignatz.; Ederschen, Joseph.; Kendl, Joseph Lorenz.; Schalbaecher, Jos.; Vietz, Ferdinand Bernhard / Wikimedia Commons / Public domain"
+    },
+    {
       "name_de": "Mangold",
       "months": [
         6,
@@ -197,6 +225,20 @@
       "source": "Saisonkalender",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Evan-Amos / Wikimedia Commons / CC0"
+    },
+    {
+      "name_de": "Spinat",
+      "months": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "note": "Freiland (Frühjahr & Herbst).",
+      "source": "Saisonkalender",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Illustration_Spinacia_oleracea1.jpg/960px-Illustration_Spinacia_oleracea1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_credit": "Otto Wilhelm Thom&amp;eacute / Wikimedia Commons / Public domain"
     },
     {
       "name_de": "Weißkohl",
