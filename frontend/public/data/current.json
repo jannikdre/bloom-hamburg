@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T10:54:24+00:00",
-  "week": 40,
+  "generated_at": "2026-10-05T11:29:03+00:00",
+  "week": 41,
   "region": "Hamburg",
   "blooming": [],
   "harvesting": [
@@ -61,31 +61,6 @@
       "source": "Saisonkalender",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Unknown author / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Grüne Bohnen",
-      "months": [
-        7,
-        8,
-        9
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Phaseolus_vulgaris.jpg/960px-Phaseolus_vulgaris.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
-    },
-    {
-      "name_de": "Gurke",
-      "months": [
-        6,
-        7,
-        8,
-        9
-      ],
-      "note": "Freiland/Gewächshaus.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cucumis_sativus20090812_496.jpg/960px-Cucumis_sativus20090812_496.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Bff / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
       "name_de": "Kartoffeln",
@@ -189,19 +164,17 @@
       "image_credit": "Prozentzwanzig / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
-      "name_de": "Radieschen",
+      "name_de": "Rosenkohl",
       "months": [
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        10,
+        11,
+        12,
+        1
       ],
       "note": "Freiland.",
       "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg/960px-Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Branche_de_choux_de_Bruxelles.jpg/960px-Branche_de_choux_de_Bruxelles.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_credit": "Popolon / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
       "name_de": "Rote Bete",
@@ -244,19 +217,6 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cabbage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "image_credit": "Bill Tarpenning / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Zucchini",
-      "months": [
-        6,
-        7,
-        8,
-        9
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG/960px-0.2014_Cucurbita_pepo_subsp._pepo_convar._giromontiina_-_Sanok.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Silar / Wikimedia Commons / CC BY-SA 4.0"
     },
     {
       "name_de": "Zwiebeln",
