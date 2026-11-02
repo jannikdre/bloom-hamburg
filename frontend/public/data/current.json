@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-10-26T10:06:57+00:00",
-  "week": 44,
+  "generated_at": "2026-11-02T12:23:43+00:00",
+  "week": 45,
   "region": "Hamburg",
   "blooming": [],
   "harvesting": [
-    {
-      "name_de": "Blumenkohl",
-      "months": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bloemkool.jpg/960px-Bloemkool.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
-    },
-    {
-      "name_de": "Brokkoli",
-      "months": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Broccoli2.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons / CC BY-SA 3.0"
-    },
     {
       "name_de": "Feldsalat",
       "months": [
@@ -49,61 +21,16 @@
       "image_credit": "Kristian Peters -- Fabelfroh 12:15, 6 September 2006 (UTC) / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
-      "name_de": "Fenchel",
+      "name_de": "Grünkohl",
       "months": [
-        6,
-        7,
-        8,
-        9,
-        10
+        11,
+        12,
+        1,
+        2
       ],
-      "note": "Freiland.",
+      "note": "Freiland – Hamburger Klassiker nach dem ersten Frost.",
       "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/K%C3%B6hler_Foeniculum.jpg/960px-K%C3%B6hler_Foeniculum.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Unknown author / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Kartoffeln",
-      "months": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Frühkartoffeln ab Juni; danach Lager.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/234_Solanum_tuberosum_L.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "image_credit": "Amédée Masclef / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Kohlrabi",
-      "months": [
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg/960px-Koolrabi_%28Brassica_oleracea_convar._acephala_alef._var._gongylodes%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
-    },
-    {
-      "name_de": "Kopfsalat",
-      "months": [
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kropsla_herfst.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Boerenkool.jpg/960px-Boerenkool.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Rasbak / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
@@ -117,20 +44,6 @@
       "source": "Saisonkalender",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg/960px-Icones_plantarum_medico-oeconomico-technologicarum_cum_earum_fructus_ususque_descriptione_%3D_%28Tab._148%29_%288096991138%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_credit": "Albrecht, Ignatz.; Ederschen, Joseph.; Kendl, Joseph Lorenz.; Schalbaecher, Jos.; Vietz, Ferdinand Bernhard / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Mangold",
-      "months": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland.",
-      "source": "Saisonkalender",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Swiss_Chard.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "image_credit": "Wikimedia Commons / Public domain"
     },
     {
       "name_de": "Möhren",
@@ -177,34 +90,6 @@
       "image_credit": "Popolon / Wikimedia Commons / CC BY-SA 3.0"
     },
     {
-      "name_de": "Rote Bete",
-      "months": [
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland; danach Lager.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Beets-Bundle.jpg/960px-Beets-Bundle.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Evan-Amos / Wikimedia Commons / CC0"
-    },
-    {
-      "name_de": "Spinat",
-      "months": [
-        4,
-        5,
-        6,
-        9,
-        10
-      ],
-      "note": "Freiland (Frühjahr & Herbst).",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Illustration_Spinacia_oleracea1.jpg/960px-Illustration_Spinacia_oleracea1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Otto Wilhelm Thom&amp;eacute / Wikimedia Commons / Public domain"
-    },
-    {
       "name_de": "Weißkohl",
       "months": [
         7,
@@ -217,19 +102,6 @@
       "source": "Saisonkalender",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cabbage.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "image_credit": "Bill Tarpenning / Wikimedia Commons / Public domain"
-    },
-    {
-      "name_de": "Zwiebeln",
-      "months": [
-        7,
-        8,
-        9,
-        10
-      ],
-      "note": "Freiland; danach Lager.",
-      "source": "Saisonkalender",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg/960px-Illustration_Allium_schoenoprasum_and_Allium_cepa0.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_credit": "Wikimedia Commons / Public domain"
     }
   ]
 }
